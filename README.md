@@ -8,3 +8,4 @@ O primeiro exemplo é o download do conteúdo de websites pela forma normal (ou 
 O nome do arquivo é **downloadsites_synchronous.py**.
 Na minha máquina pessoal, o tempo de execução de download de 100 websites foi de 18.61 segundos, ou seja, 5.37 downloads por segundo.
 Output do código:
+![](images/Sincrono.png)
