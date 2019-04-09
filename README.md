@@ -19,7 +19,9 @@ Como podemos ver, o código é extremamente simples. Porém é um pouco demorado
 ## Download Assíncrono utilizando Threading
 
 O segundo exemplo é o download do conteúdo de websites utilizando threading, onde a tarefa de download é dividida entre vários *workers* (ou trabalhadores) para que os downloads sejam realizados em paralelo.
+
 Na minha máquina pessoal, o tempo de execução de 100 websites foi de 1.72 segundos, ou seja, 58.09 downloads por segundo! Isso equivale à uma melhora de aproximadamente 90,76% em tempo de execução!
+
 Output do código:
 
 ![](images/Assincrono_threading.png)
